@@ -13,7 +13,9 @@ Gemini
 
 ## 🧐 Processo de Criação
 No chatGTP utilizei o seguinte prompt:
-Crie uma imagem com um sol radiante parcialmente encoberto por nuvens densas e escuras, indicando uma iminente tempestade. Raios de sol perfuram as nuvens, espalhando uma luz quente e dourada sobre o cenário, enquanto o céu carrega tons dramáticos de cinza. A cena sugere um contraste entre a luminosidade do sol e a tensão da chuva se aproximando, com uma sensação de tranquilidade antes da mudança climática.
+Crie uma imagem com um sol radiante parcialmente encoberto por nuvens densas e escuras, indicando uma iminente tempestade.
+Raios de sol perfuram as nuvens, espalhando uma luz quente e dourada sobre o cenário, enquanto o céu carrega tons dramáticos de cinza.
+A cena sugere um contraste entre a luminosidade do sol e a tensão da chuva se aproximando, com uma sensação de tranquilidade antes da mudança climática.
 
 ## 🚀 Resultados
 O resultado ficou melhor que o esperado, conforme visto na imagem gerada pelo ChatGPT, abaixo:
